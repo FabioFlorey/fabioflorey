@@ -23,7 +23,6 @@
 😄 Pronouns: ...
 
 ⚡ Fun fact: ...
-
 ```
 
 <br><div align="right"><a href=""><kbd>Download my resume</kbd></a></div>
