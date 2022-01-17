@@ -5,7 +5,9 @@
     <h3>Senior RPA Developer</h3>
     <hr>
 </div>
-<img src="https://s12.favim.com/gif_previews/6/639/6398/63984/6398400.gif" align="left" height=300>
+<div align="left">
+    <img src="https://animesher.com/orig/1/112/1125/11254/animesher.com_no-signal-grunge-cowboy-bebop-1125463.gif" alt"background-image" align="left" height=315>
+</div>
 
 ```
 🔭 I’m currently working on: ...
