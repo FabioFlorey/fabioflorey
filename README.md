@@ -6,7 +6,7 @@
     <hr>
 </div>
 <div align="left">
-    <img src="https://animesher.com/orig/1/112/1125/11254/animesher.com_no-signal-grunge-cowboy-bebop-1125463.gif" alt"background-image" align="left" height=250>
+    <img src="https://animesher.com/orig/1/112/1125/11254/animesher.com_no-signal-grunge-cowboy-bebop-1125463.gif" alt"background-image" align="left" height=300>
 </div>
 
 ```
