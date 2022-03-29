@@ -2,7 +2,7 @@
     <!-- I found this wiggly GitHub gif on durgeshsamariya's README.md and I shamefully took it! -->
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=60 alt="wiggly GitHub Logo">
     <h1>𝐅𝐚𝐛𝐢𝐨 𝐂𝐫𝐚𝐢𝐠 𝐖𝐢𝐦𝐦𝐞𝐫 𝐅𝐥𝐨𝐫𝐞𝐲</h1>
-    <h3>Senior RPA Developer</h3>
+    <h3>RPA Developer @ Beta80Group</h3>
     <hr>
 </div>
 <div align="left">
