@@ -10,21 +10,19 @@
 </div>
 
 ```
-🔭 I’m currently working on: ...
+🔭 I’m currently working with: UiPath, Automation Anywhere, Python, Podman, VBScript
 
-🌱 I’m currently learning: ...
+🌱 I’m currently learning: Raku
 
-👯 I’m looking to collaborate on: ...
+👯 I’m looking to collaborate on: any Python\Raku project!
 
-🤔 I’m looking for help with: ...
+🤔 I’m looking for help with: my repo I VBSCript
 
-💬 Ask me about: ...
+💬 Ask me about: Anything!
 
-📫 How to reach me: ...
+📫 How to reach me: fabioflorey@hackermail.com
 
-😄 Pronouns: ...
-
-⚡ Fun fact: ...
+⚡ Fun fact: I'm scared of puppies
 ```
 
 <br><div align="right"><a href=""><kbd>Download my resume</kbd></a></div>
