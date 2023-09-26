@@ -31,10 +31,10 @@ My work focuses on **Intelligent Process Automation** (IPA) and **AI-Driven Oper
 
 **AI-Driven Operations (AI-Ops)** refer to the application of Artificial Intelligence in managing and optimizing IT operations. It encompasses predictive analytics, proactive problem-solving, and intelligent automation of IT processes to ensure systems run efficiently and with minimal downtime.
 
-You can reach me on [LinkedIn][LINKEDIN] and [Twitter][TWITTER], write me there!
+You can reach me on [LinkedIn][LINKEDIN] and [X][X], write me there!
   
 <p align="right"><a href="#readme-header">⮨</a></p>
 
 <!--- Hyperlinks --->
 [LINKEDIN]: https://www.linkedin.com/in/fabio-craig-wimmer-florey
-[TWITTER]:  https://twitter.com/fabioflorey
+[X]:  https://twitter.com/fabioflorey
