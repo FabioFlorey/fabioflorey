@@ -33,7 +33,7 @@ My work focuses on **Intelligent Process Automation** (IPA) and **AI-Driven Oper
 
 <p align="right"><a href="#readme-header">⮨</a></p><hr>
 
-You can reach on:
+You can reach me on:
 - [LinkedIn][LINKEDIN]
   
 <p align="right"><a href="#readme-header">⮨</a></p>
