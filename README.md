@@ -19,9 +19,9 @@ Summary of the project, including its purpose and how to use it.
   <h1>Ciao!</h1>
 </div>
 
-<img src="https://img3.gelbooru.com//images/87/d7/87d72df276757f693d414b1f3f282222.png" height=300 align="left" >
-
 My name is **Fabio Craig Wimmer Florey**, and I currently work as an **Enterprise Automation Specialist** at **A2A**.
+
+<img src="https://img3.gelbooru.com//images/87/d7/87d72df276757f693d414b1f3f282222.png" height=285 align="left" >
 
 My role revolves around crafting and implementing cutting-edge workflow automation solutions aimed at streamlining processes, enhancing operational efficiency, and eliminating bottlenecks while reducing costs.
 
@@ -31,12 +31,10 @@ My work focuses on **Intelligent Process Automation** (IPA) and **AI-Driven Oper
 
 **AI-Driven Operations (AI-Ops)** refer to the application of Artificial Intelligence in managing and optimizing IT operations. It encompasses predictive analytics, proactive problem-solving, and intelligent automation of IT processes to ensure systems run efficiently and with minimal downtime.
 
-<p align="right"><a href="#readme-header">⮨</a></p><hr>
-
-You can reach me on:
-- [LinkedIn][LINKEDIN]
+You can reach me on [LinkedIn][LINKEDIN] and [Twitter][TWITTER], write me there!
   
 <p align="right"><a href="#readme-header">⮨</a></p>
 
 <!--- Hyperlinks --->
-[LINKEDIN]: https://www.linkedin.com/in/fabio-craig-wimmer-florey/
+[LINKEDIN]: https://www.linkedin.com/in/fabio-craig-wimmer-florey
+[TWITTER]:  https://twitter.com/fabioflorey
