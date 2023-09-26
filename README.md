@@ -1,16 +1,38 @@
-### Hi there 👋
+<a name="readme-header"></a>
 
-<!--
-**FabioFlorey/fabioflorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---
+=============================================================================
+Project
+=============================================================================
+README
+-----------------------------------------------------------------------------
+Summary of the project, including its purpose and how to use it.
 
-Here are some ideas to get you started:
+:Authors: Fabio Craig Wimmer Florey <fabioflorey@icloud.com>
+:Version: 0.0.1
+:License: MIT-0
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <!-- <img alt="logo" src="./branding/logo.png"></img> -->
+  <h1>Ciao!</h1>
+</div>
+
+<img src="https://img3.gelbooru.com//images/87/d7/87d72df276757f693d414b1f3f282222.png" height=300 align="left" >
+
+My name is **Fabio Craig Wimmer Florey**, and I currently work as an **Enterprise Automation Specialist** at **A2A**.
+
+My role revolves around crafting and implementing cutting-edge workflow automation solutions aimed at streamlining processes, enhancing operational efficiency, and eliminating bottlenecks while reducing costs.
+
+My work focuses on **Intelligent Process Automation** (IPA) and **AI-Driven Operations** (AI-Ops). 
+
+**Intelligent Process Automation (IPA)** involves the use of advanced technologies like Robotic Process Automation (RPA) and Artificial Intelligence (AI) to streamline and enhance various business processes. This includes automating repetitive tasks, optimizing workflows, and leveraging AI for data-driven decision-making.
+
+**AI-Driven Operations (AI-Ops)** refer to the application of Artificial Intelligence in managing and optimizing IT operations. It encompasses predictive analytics, proactive problem-solving, and intelligent automation of IT processes to ensure systems run efficiently and with minimal downtime.
+
+
+
+
+<p align="right"><a href="#readme-header">⮨</a></p>
+
