@@ -21,7 +21,7 @@ Summary of the project, including its purpose and how to use it.
 
 My name is **Fabio Craig Wimmer Florey**, and I currently work as an **Enterprise Automation Specialist** at **A2A**.
 
-<img src="https://img3.gelbooru.com//images/87/d7/87d72df276757f693d414b1f3f282222.png" height=250 align="left" >
+<img src="https://img3.gelbooru.com//images/87/d7/87d72df276757f693d414b1f3f282222.png" height=290 align="left" >
 
 My role revolves around crafting and implementing cutting-edge workflow automation solutions aimed at streamlining processes, enhancing operational efficiency, and eliminating bottlenecks while reducing costs.
 
